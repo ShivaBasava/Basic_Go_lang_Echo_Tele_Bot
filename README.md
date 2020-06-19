@@ -1,6 +1,6 @@
-# Sep_03
 Echo_Bot
-
+# Basic_Go_lang_Echo_Tele_Bot (# Sep_03)
+# 2nd Try (with some different file structures- config)
 # Missing anything...?
 
 Yep...! 
